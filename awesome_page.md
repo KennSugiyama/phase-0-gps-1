@@ -1,3 +1,2 @@
-This is different from the other gobbly gook.
-
+gobbly gook
 meow meow.
